@@ -140,11 +140,10 @@ GEM
 
 PLATFORMS
   ruby
-  x64-mingw32
 
 DEPENDENCIES
   github-pages (= 106)
   jekyll-paginate
 
 BUNDLED WITH
-   1.13.6
+   1.14.6
