@@ -1,7 +1,13 @@
 ---
 layout: page
-title: About me
-subtitle: What do you want to know about me?
+title: Çağlar Eker
+subtitle: Computer Engineer / Back-end Developer / Java & Hybris
 ---
 
-Greetings, I’m Çağlar. I’m a software engineer living in İstanbul, Turkey. I am a fan of web development, programming, and music. I’m also interested in technology and tracking. You can view my portfolio on [Linked-in](https://www.linkedin.com/in/caglareker/).
+![{{ site.title }}](http://lorempixel.com/750/450/nature)
+
+I studied in the department of Computer Engineering at Near East University. I'm working in Istanbul.
+
+You can view my portfolio on [Linked-in](https://www.linkedin.com/in/caglareker/){:target="_blank"}.
+
+Have a fun…
