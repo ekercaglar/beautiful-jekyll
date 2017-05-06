@@ -32,6 +32,8 @@ avatar: "/img/avatar-icon.jpg"
 
 favicon: "/img/favicon.ico"
 
+about-img: "/img/about-img.jpg"
+
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
 # title-img: /path/to/image
