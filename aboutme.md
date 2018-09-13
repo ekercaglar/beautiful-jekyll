@@ -4,7 +4,7 @@ title: About me
 subtitle:
 ---
 
-<!--![{{ site.title }}]({{ site.about-img }})-->
+![{{ site.title }}]({{ site.about-img }})
 
 I studied in the department of Computer Engineering at Near East University. I'm working in Istanbul.
 
